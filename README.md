@@ -13,7 +13,7 @@ Project consists of a building  a Active Directory Environment in Oracle Virtual
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (21H2)
 -  <b>Oracle VirtualBox</b> (21H2)
 
 <h2>Program Diagram:</h2>
